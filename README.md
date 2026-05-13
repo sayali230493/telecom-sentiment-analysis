@@ -4,7 +4,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=flat&logo=scikit-learn)
 ![NLTK](https://img.shields.io/badge/NLTK-VADER-green?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 > **End-to-end data science project** combining NLP sentiment scoring and Random Forest machine learning to predict customer churn for a telecommunication company.
 
