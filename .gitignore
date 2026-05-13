@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files — keep raw, ignore large processed files
+data/X_train.csv
+data/X_test.csv
+data/y_train.csv
+data/y_test.csv
+
+# Trained models (large binary files — use Git LFS or store externally)
+models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
