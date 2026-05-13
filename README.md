@@ -1,12 +1,19 @@
 # 📡 Telecom Customer Sentiment Analysis — Churn Prediction
 
-> **End-to-end data science project** combining NLP sentiment scoring and Random Forest machine learning to predict customer churn for a telecommunications company.
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=flat&logo=scikit-learn)
+![NLTK](https://img.shields.io/badge/NLTK-VADER-green?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
+
+> **End-to-end data science project** combining NLP sentiment scoring and Random Forest machine learning to predict customer churn for a telecommunication company.
 
 ---
 
 ## 🎯 Project Overview
 
-Customer churn costs telecom carriers $300–$400 per lost subscriber. This project builds a **sentiment-aware churn prediction system** that identifies at-risk customers *before* they cancel — by combining structured CRM data with NLP-derived emotional signals.
+Customer churn costs telecom carriers $300–$400 per lost subscriber. 
+This project builds a **sentiment-aware churn prediction system** that identifies at-risk customers *before* they cancel — by combining structured CRM data with NLP-derived emotional signals.
 
 **Business Problem:** How do we identify customers who are emotionally disengaged before they cancel their service?
 
@@ -83,7 +90,7 @@ telecom_sentiment_project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/telecom-sentiment-analysis.git
+git clone https://github.com/sayali230493/telecom-sentiment-analysis.git
 cd telecom-sentiment-analysis
 ```
 
@@ -148,12 +155,23 @@ python src/06_score_new_customers.py    # Score all customers
 
 ## 👤 Author
 
-**Data Science & Analytics Division**  
-Telecom Customer Intelligence Project  
-2024
+**Sayali Khopade**  
+[GitHub](https://github.com/sayali230493) · [LinkedIn](https://www.linkedin.com/in/sayalikhopade/)  
+2026
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you have questions about this project or want to collaborate:
+
+- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sayalikhopade/)
+- 📧 Email: sayali23khopade23@gmail.com
+- 🐙 GitHub: [github.com/sayali230493](https://github.com/sayali230493)
 
 ---
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+This project is for portfolio and educational purposes.
+© 2026 Sayali Khopade. All rights reserved.
